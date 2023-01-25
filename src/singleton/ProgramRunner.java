@@ -1,3 +1,5 @@
+package singleton;
+
 public class ProgramRunner {
     public static void main(String[] args) {
         ProgramLogger.getProgramLogger().addLogInfo("1st log info...");
